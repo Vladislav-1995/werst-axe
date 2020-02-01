@@ -118,6 +118,10 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-porn {
+  background-image: url("img/sexual-harassment-svgrepo-com.svg");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -127,6 +131,17 @@ body {
   border: 1px solid #86c3fa;
   border-radius: 8px;
 }
+
+.level-1 {
+  margin: 4px 0 16px;
+  padding: 0;
+  height: 14px;
+  font-size: 0;
+  background-color: #FF0F21;
+  border: 1px solid #86c3fa;
+  border-radius: 8px;
+}
+
 
 .level div {
   margin: 1px;
